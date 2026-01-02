@@ -14,7 +14,7 @@ I'll try to demistify this *enigma* in the following lessons.
 
 At the lowest useful level, a screen is a grid of many small units called **PIXELS**.
 
-For example: `1920x1080` means `1920` pixels in a row and `1080` in a column placed like a grid so total `207360` pixels on your screen.
+For example: `1920x1080` means `1920` pixels in a row and `1080` in a column placed like a grid so total `2073600` pixels on your screen.
 
 ```yaml
 <<<     1920 pixels wide.    >>>

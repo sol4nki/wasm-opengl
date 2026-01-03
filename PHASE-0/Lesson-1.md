@@ -42,9 +42,9 @@ Most commonly a pixel is stored as four numbers:
 > A – alpha (opacity)
 ```
 and each of these values is usually 8 bits (0–255).
-<div style="text-align: center;">
+<p align="center">
   <img src="img/what_pixels.png" alt="pixels displayed">
-</div>
+</p>
 
 so pixels might be:
 ```css

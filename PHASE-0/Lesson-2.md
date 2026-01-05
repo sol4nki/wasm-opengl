@@ -56,7 +56,8 @@ Early Engineers realized something critical:
 
 > Pixel and vertex calculations are massively parallel
 
-
+>[!NOTE]
+> will be continued soon
 ## 4. The GPU’s purpose (in one sentence)
 ## 5. How a GPU is different from a CPU
 ## 6. What the GPU actually computes
